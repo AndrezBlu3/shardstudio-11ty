@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<%= site.locale %>">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -91,8 +91,9 @@
       <div class="text-xl py-5"><%- content %></div>
 
       <div class="border-t border-gray-300 text-center py-8">
+        <p class="text-gray-500 font-light"><%= site.site_footer %></p>
         Made with <span role="img" aria-label="Love">♥</span> by
-        <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+        <a href="https://shardstudio.com">Blue</a>
       </div>
     </div>
   </body>
