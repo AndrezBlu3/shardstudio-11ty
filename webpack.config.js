@@ -17,7 +17,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 module.exports = {
-  mode: 'development',
+  mode: 'production',
   entry: entries,
   output: {
     path: path.resolve(__dirname, '_site/assets'),
