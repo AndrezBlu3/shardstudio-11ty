@@ -4,5 +4,6 @@
   "description": "Is where artists, designers & photographers work.",
   "url": "https://fervent-euclid-513395.netlify.app/",
   "locale": "es",
-  "author": "Blue"
+  "author": "Blue",
+  "site_footer": "&copy; 2021 Shard Studio"
 }
