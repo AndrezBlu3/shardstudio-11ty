@@ -1,7 +1,7 @@
 ---
 title: Aplicaciones web modernas
 description: Sitios web más rápidos & Infraestructura más segura.
-date: 2021-07-14T20:47:54.790Z
+date: 2021-07-14T02:46:54.790Z
 ---
 ## Como lo hacemos?
 Desacoplando el frontend del backend
